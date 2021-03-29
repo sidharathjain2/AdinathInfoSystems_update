@@ -1,0 +1,10 @@
+New things 
+
+-> Partywise statement added
+-> Agentwise statement added
+
+--------------------------------
+Bug fixed
+
+->Duplication of records in Copy of Acc.
+  report.
