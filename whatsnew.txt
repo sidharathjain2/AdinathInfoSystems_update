@@ -1,10 +1,7 @@
-New things 
+###New Features
+- Partywise Statement added
+- Agentwise Statement added
+- Password show/hide  added
 
--> Partywise statement added
--> Agentwise statement added
-
---------------------------------
-Bug fixed
-
-->Duplication of records in Copy of Acc.
-  report.
+###Bug Fixed
+- Duplication of records in Copy of Acc. report
