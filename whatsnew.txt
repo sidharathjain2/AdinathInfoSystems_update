@@ -1,10 +1,10 @@
-## 1.0.3
+## Version 1.0.3
 
 # New Features
 - Password wrong dialog added 
 - Invoice Search by Vocher number or Partyname
  
-## 1.0.2
+## Version 1.0.2
 
 # New Features
 - Partywise Statement added
