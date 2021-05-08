@@ -1,11 +1,13 @@
 ## Version 1.0.4
 
 # New Features
-- Empty items remove
 - Item Search by itemcode or itemname
 - Partywise sale report added
 - Itemwise sale report added
 - All items sale report added
+
+# Bug fixed
+- Empty items remove
 
 ## Version 1.0.3
 
