@@ -9,7 +9,7 @@
 # Bug fixed
 - Empty items remove
 
- ----------------
+----------------
 
 ## Version 1.0.3
 
@@ -17,7 +17,7 @@
 - Password wrong dialog added 
 - Invoice Search by Vocher number or Partyname
 
- ----------------
+----------------
 
 ## Version 1.0.2
 
