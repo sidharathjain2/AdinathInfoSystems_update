@@ -1,5 +1,5 @@
 ## Version 1.0.4
-------------------
+
 # New Features
 - Item Search by itemcode or itemname
 - Partywise sale report added
@@ -9,12 +9,16 @@
 # Bug fixed
 - Empty items remove
 
+ ----------------
+
 ## Version 1.0.3
 
 # New Features
 - Password wrong dialog added 
 - Invoice Search by Vocher number or Partyname
- 
+
+ ----------------
+
 ## Version 1.0.2
 
 # New Features
