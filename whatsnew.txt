@@ -1,11 +1,17 @@
-# Version 1.0.4
+# Version 1.0.5
 # New Features
+- As on date Trial added 
+
+-----------------
+## Version 1.0.4
+
+New Features
 - Item Search by itemcode or itemname
 - Partywise sale report added
 - Itemwise sale report added
 - All items sale report added
 
-# Bug fixed
+Bug fixed
 - Empty items remove
 
 ----------------
