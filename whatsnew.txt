@@ -1,5 +1,10 @@
-# Version 1.0.5
+# Version 1.0.6
 # New Features
+- Annexure report added
+----------------
+## Version 1.0.5
+
+New Features
 - As on date Trial added 
 
 -----------------
